@@ -5,8 +5,13 @@ This course will give an overview of computer interface components and their cha
 # Course Objectives
 
 a) Introduction with basic Interfacing, Interfacing Components and their characteristics.
+
 b) Outline the working mechanism of different types of sensors, sensing devices, hall-effect sensing, and real life application of some sensors.
+
 c) Describe various I/O interfacing including GPIO using MCU/MPU development board and how Programmable Peripheral Interface (PPI) – 82C55 works.
+
 d) Explain the working mechanism of Disk, Drum, Motors and Printers and their real life application.
+
 e) Describe the types and formats of communication protocols like I2C, SPI, UART, USART, and USB.
+
 f) Explain LCD, LED, Seven- segment display, Keyboard, Mouse work and interface with their interfacing principal.
