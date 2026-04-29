@@ -15,3 +15,6 @@ d) Explain the working mechanism of Disk, Drum, Motors and Printers and their re
 e) Describe the types and formats of communication protocols like I2C, SPI, UART, USART, and USB.
 
 f) Explain LCD, LED, Seven- segment display, Keyboard, Mouse work and interface with their interfacing principal.
+
+# Playlist
+    https://www.youtube.com/playlist?list=PLL6TRCyswkrs0h9IzTZrIZUzJZEmQ_nHN
